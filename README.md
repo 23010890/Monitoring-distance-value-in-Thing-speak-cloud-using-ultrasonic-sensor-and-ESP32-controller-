@@ -1,7 +1,7 @@
 # NAME  : DHARSHINI S
 # REG NO : 212223110010
 
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
@@ -154,6 +154,7 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-20 at 09 15 24_a4d82e7c](https://github.com/user-attachments/assets/8abfe9b8-f6b3-40de-95fc-6bb7cf1339fc)
 
 
 # OUTPUT:
